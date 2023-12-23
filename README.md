@@ -11,13 +11,14 @@ This project involves analyzing the Vrindavan Excel dataset and creating a dashb
 - [Analysis Steps](#analysis-steps)
 - [Dashboard Creation](#dashboard-creation)
 - [File Structure](#ExcelFormat)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Dataset Description
-- [Provide a brief description of the dataset, its source, and any preprocessing steps undertaken.]
+- [This dataset is intended for exploring and analyzing sales-related aspects in Vrindavan, with a focus on creating a meaningful dashboard to convey insights visually. The analysis may include but is not limited to:
+
+- Identifying sales trends over time.
+- Analyzing the performance of specific products or categories.
+- Understanding customer behavior and preferences..]
 
 ## Analysis Steps
 1. [Step 1: Load the dataset into Excel.]
