@@ -36,7 +36,7 @@ This project involves analyzing the Vrindavan Excel dataset and creating a dashb
 4. Amazon, Flipkart, and Myntra were the most significant sales channels, contributing to about 80% of total sales. .
 
 ## Conclusion and Recommendations 
-# Based on the insights, here are the conclusions and recommendations:
+ Based on the insights, here are the conclusions and recommendations:
 
 To boost sales in the future:
 
