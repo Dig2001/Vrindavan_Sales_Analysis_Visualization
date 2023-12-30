@@ -3,6 +3,11 @@
 ## Overview
 This project involves analyzing the Vrindavan Excel dataset and creating a dashboard for visualizing key insights. The dataset contains [brief description of the dataset content and purpose].
 
+[![LinkedIn Badge](URL_TO_YOUR_LINKEDIN_BADGE_IMAGE)](https://www.linkedin.com/in/digamber-chandra/)
+[![Tableau Badge](URL_TO_YOUR_TABLEAU_BADGE_IMAGE)](https://public.tableau.com/app/profile/digtableau2001/vizzes)
+[![GitHub Badge](URL_TO_YOUR_GITHUB_BADGE_IMAGE)](https://github.com/Dig2001)
+[![Kaggle Badge](URL_TO_YOUR_KAGGLE_BADGE_IMAGE)](https://www.kaggle.com/digamber03)
+
 ## Dataset Description
 - [This dataset is intended for exploring and analyzing sales-related aspects in Vrindavan, with a focus on creating a meaningful dashboard to convey insights visually. The analysis may include but is not limited to:
 
