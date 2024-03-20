@@ -4,8 +4,8 @@
 This project involves analyzing the Vrindavan Excel dataset and creating a dashboard for visualizing key insights. The dataset contains [brief description of the dataset content and purpose].
 
 [![LinkedIn Badge]()](https://www.linkedin.com/in/digamber-chandra/)
-[![Tableau Badge]()](https://public.tableau.com/app/profile/digtableau2001/vizzes)
-[![GitHub Badge]()](https://github.com/Dig2001)
+[![Tableau Badge]()](https://public.tableau.com/app/profile/digamber03/vizzes)
+[![GitHub Badge]()](https://github.com/Digamber03)
 [![Kaggle Badge]()](https://www.kaggle.com/digamber03)
 
 ## Dataset Description
