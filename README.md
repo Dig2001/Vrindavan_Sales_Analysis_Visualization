@@ -1,7 +1,7 @@
 #               Vrindavan Excel Dataset Analysis and Dashboard Project
 
 ## Overview
-This project involves analyzing the Vrindavan Excel dataset and creating a dashboard for visualizing key insights. The dataset contains [brief description of the dataset content and purpose].
+This project involves analyzing the Vrindavan Excel dataset and creating a dashboard for visualizing key insights.
 
 📬 Find me at: [![LinkedIn Badge](https://camo.githubusercontent.com/f57a7536f5eff51ee70e26fde6cbb008fda9315455c8217951f50f4d57f8bd53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f70686f6e657468697269796164616e61)](https://www.linkedin.com/in/digamber-chandra/)
 [![Tableau Badge](https://camo.githubusercontent.com/edce1d5a7cb509fdb5dee2e08df45e37be34602a11157ca9c23f12f8d63d4438/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7075626c69632e7461626c6561752e636f6d2f70726f66696c652f70686f6e657468697269796164616e6123212f)](https://public.tableau.com/app/profile/digamber03/vizzes)
@@ -10,11 +10,11 @@ This project involves analyzing the Vrindavan Excel dataset and creating a dashb
 
 
 ## Dataset Description
-- [This dataset is intended for exploring and analyzing sales-related aspects in Vrindavan, with a focus on creating a meaningful dashboard to convey insights visually. The analysis may include but is not limited to:
+- This dataset is intended for exploring and analyzing sales-related aspects in Vrindavan, with a focus on creating a meaningful dashboard to convey insights visually. The analysis may include but is not limited to:
 
 - Identifying sales trends over time.
 - Analyzing the performance of specific products or categories.
-- Understanding customer behavior and preferences..]
+- Understanding customer behavior and preferences..
 
 ## Business Questions Explored
 1. Comparative Sales and Orders Analysis: Explore the relationship between sales and orders using a single chart.
