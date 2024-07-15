@@ -1,4 +1,5 @@
 #               Vrindavan Excel Dataset Analysis and Dashboard Project
+This project involves analyzing the Vrindavan Excel dataset and creating a dashboard for visualizing key insights.
 
 ## Overview
 This project involves analyzing the Vrindavan Excel dataset and creating a dashboard for visualizing key insights.
